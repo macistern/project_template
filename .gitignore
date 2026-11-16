@@ -1,0 +1,16 @@
+# Dependencias y builds
+node_modules/
+dist/
+build/
+.next/
+coverage/
+
+# Entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Sistema y editores
+.DS_Store
+.idea/
+.vscode/
